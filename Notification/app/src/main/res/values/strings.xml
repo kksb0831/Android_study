@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Notification</string>
+    <!-- 알림버튼 -->
+    <string name="notify_name">알림 버튼</string>
+    <string name="notify_button_update">알림 업데이트</string>
+
+    <!-- 업뎃버튼 -->
+    <string name="update_name">업뎃 버튼</string>
+
+    <!-- 취소버튼 -->
+    <string name="cancel_name">취소 버튼</string>
+</resources>
