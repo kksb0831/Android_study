@@ -5,4 +5,7 @@
 
 
 ### Android Developer Traning
+- 1.1 HelloWorld
+- 1.2 HelloToast
 - 8.1 Notification
+- 10.1 Firebase Cloud Message
