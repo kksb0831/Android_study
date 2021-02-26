@@ -159,13 +159,9 @@ public class MainActivity extends AppCompatActivity {
         return PendingIntent.getBroadcast(this, NOTIFICATION_ID, deleteIntent, PendingIntent.FLAG_UPDATE_CURRENT);
     }
 
-
     @Override
     protected void onDestroy() {
         unregisterReceiver(mReceiver);
         super.onDestroy();
     }
-
-
-
 }
